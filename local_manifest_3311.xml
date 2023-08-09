@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/realme/porsche" name="araujo791/device_realme_porsche" remote="github" revision="Cov" />
-  <project path="vendor/realme/porsche" name="araujo791/vendor_realme_porsche" remote="github" revision="Cov" />
-  <project path="vendor/realme/porsche-firmware" name="araujo791/vendor_realme_porsche-firmware" remote="gitlab" revision="Cov" />
-  <project path="kernel/realme/sm8350" name="araujo791/kernel_realme_sm8350" remote="github" revision="Cov" />
+  <project path="device/realme/porsche" name="Ad1tyaS1ngh/device_realme_porsche" remote="github" revision="T" />
+  <project path="vendor/realme/porsche" name="Ad1tyaS1ngh/vendor_realme_porsche" remote="github" revision="T" />
+  <project path="vendor/realme/porsche-firmware" name="araujo791/vendor_realme_porsche-firmware" remote="gitlab" revision="T" />
+  <project path="kernel/realme/sm8350" name="Ad1tyaS1ngh/kernel_realme_sm8350" remote="github" revision="T" />
 </manifest>

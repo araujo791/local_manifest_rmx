@@ -3,5 +3,6 @@
   <project path="device/realme/porsche" name="Ad1tyaS1ngh/device_realme_porsche" remote="github" revision="T" />
   <project path="vendor/realme/porsche" name="Ad1tyaS1ngh/vendor_realme_porsche" remote="github" revision="T" />
   <project path="vendor/realme/porsche-firmware" name="araujo791/vendor_realme_porsche-firmware" remote="gitlab" revision="main" />
-  <project path="kernel/realme/sm8350" name="Ad1tyaS1ngh/kernel_realme_sm8350" remote="github" revision="T" />
+  <project path="vendor/realme/porsche-opluscamera" name="ad1tyas1ngh/vendor_realme_porsche-opluscamera" remote="gitlab" revision="T" />
+  <project path="kernel/realme/sm8350" name="aosparsche/android_kernel_realme_sm8350" remote="github" revision="topaz" />
 </manifest>
